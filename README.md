@@ -1,11 +1,37 @@
-## Natural Language Processing
+# Natural Language Processing
+
+This repository contains material related to **Natural Language Processing (NLP)**, designed to provide practical learning through coding exercises, definitions, and detailed explanations. It covers key topics in NLP using sample corpora and integrates insights from multiple resources such as YouTube tutorials, ChatGPT, and blogs (e.g., Medium, Analytics Vidhya).
+
+---
+
+## Repository Highlights
+- **Comprehensive Coverage**: Topics range from basic NLP concepts to advanced techniques.
+- **Code and Explanations**: Each file contains the code along with explanations to enhance understanding.
+- **Multiple Resources**: Inspired by blogs, tutorials, and other trusted sources.
+
+---
+
+## Topics Covered
+1. **Day_1**  
+   - **Contents**:  
+     - **StopWords**: Handling and filtering stopwords from text.  
+     - **Stemming**: Reducing words to their root form.  
+     - **Lemmatization**: Normalizing words using linguistic analysis.  
+     - **Bag of Words**: Representing text data in numerical form.
+
+---
 
 
-This repo will have all the material related to Natural Language Processing. Initially I have started with practicing all the topics which includes the 
-definition and small explanation along with the code for that particular topic on a sample corpus. 
 
-There will be multiple resources used while creating this repository like youtube videos, Chatgpt, material from different blogs like medium, Analytics Vidhya etc.
+## References
+- Medium Blogs
+- Analytics Vidhya Tutorials
+- ChatGPT for concept explanations
+- YouTube Channels on NLP and Data Science
 
+---
 
-#### I will keep on updating this file whenever I will upload any file in this repository
-1. Day_1 -> This file covers topic such as StopWords, Stemming, Lemmatization, BagofWords.
+## Contact
+For queries or collaborations:
+- **Email**: m.dhananjay024@gmail.com
+- **GitHub**: [Dhananjay Mishra](https://github.com/dhananjay-mishra24)
